@@ -10,9 +10,6 @@ Got it! Let’s create a **full README** for **Engine X**, focusing on its multi
 
 The system is designed to handle **large-scale, heterogeneous datasets**, making it suitable for **e-commerce, content platforms, finance, and social networks**. By combining **graph-based relational reasoning** with **deep semantic embeddings**, Engine X predicts user preferences across different domains with a robust hybrid approach.
 
-## Architecture
-
-![Engine X Architecture](assets/architecture.png)
 
 ---
 
@@ -42,6 +39,8 @@ Engine X comprises two main modules:
    * Uses **Sentence Transformers** to encode textual or semantic information (e.g., product descriptions, reviews).
    * Combines graph embeddings with semantic embeddings for final recommendation scores.
    * Supports **top-k recommendations** per user and **cross-domain predictions**.
+  
+![Engine X Architecture](assets/architecture.png)
 
 **Workflow Diagram:**
 
