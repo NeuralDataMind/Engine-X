@@ -1,5 +1,3 @@
----
-
 # Engine X
 
 ## Overview
